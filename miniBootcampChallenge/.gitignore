@@ -1,0 +1,4 @@
+# Xcode user-specific settings and workspace files
+*.xcuserdatad
+xcuserdata/
+
